@@ -19,6 +19,8 @@ If you see prompt can't fetch the API, you can disabled features on chrome at **
 
 ## Testing API
 
-For example you can try this code on this website who can try this code:
+For example you can try this code on this website:
 
 (http://notesapp-v1.dicodingacademy.com/)
+
+On this website you need to put your localhost address on Header
